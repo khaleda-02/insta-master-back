@@ -8,16 +8,10 @@
     "dev": "nodemon ./index.js",
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/salemAmassi/insta-master-back.git"
-  },
-  "author": "Salem Amassi",
+  "repository": {},
+  "author": "Khaleda-02|khaled alkhalili",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/salemAmassi/insta-master-back/issues"
-  },
-  "homepage": "https://github.com/salemAmassi/insta-master-back#readme",
+  "bugs": {},
   "dependencies": {
     "assert": "^2.0.0",
     "axios": "^1.4.0",
